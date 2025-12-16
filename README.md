@@ -12,7 +12,7 @@ Validates email addresses based on regex, common typos, disposable email blackli
 
 ## Getting Started
 
-Comaptible with nodejs only. Not browser ready.
+Compatible with nodejs only. Not browser ready.
 
 Install like so
 
@@ -68,4 +68,11 @@ const main = async () => {
 }
 ```
 
+> **Tip:** You can prototype and test TypeScript code snippets quickly using an [online JavaScript compiler](https://playcode.io/javascript-compiler) like PlayCode.
+
 [Default options can be found here](https://github.com/mfbx9da4/deep-email-validator/blob/cefb37abc6e42d3a1551d38f9706d4ff538226e5/src/options/options.ts#L1)
+
+## Related Tools
+
+- [JavaScript Compiler](https://playcode.io/javascript-compiler) - Online JavaScript and TypeScript playground
+- [TypeScript Playground](https://playcode.io/typescript) - Test TypeScript code instantly in your browser
