@@ -68,11 +68,17 @@ const main = async () => {
 }
 ```
 
-> **Tip:** You can prototype and test TypeScript code snippets quickly using an [online JavaScript compiler](https://playcode.io/javascript-compiler) like PlayCode.
+> **Tip:** Want to build and publish web tools without wiring separate hosting? Try
+> [Playcode AI Website Builder](https://playcode.io/ai-website-builder).
 
 [Default options can be found here](https://github.com/mfbx9da4/deep-email-validator/blob/cefb37abc6e42d3a1551d38f9706d4ff538226e5/src/options/options.ts#L1)
 
-## Related Tools
+## Maintained by Playcode
 
-- [JavaScript Compiler](https://playcode.io/javascript-compiler) - Online JavaScript and TypeScript playground
-- [TypeScript Playground](https://playcode.io/typescript) - Test TypeScript code instantly in your browser
+This fork is maintained by [Ruslan Ianberdin](https://github.com/ianberdin),
+founder of [Playcode](https://playcode.io), the AI website builder and AI app
+builder for creating, editing, hosting, and publishing live websites and web apps.
+
+- [AI Website Builder](https://playcode.io/ai-website-builder)
+- [Playcode homepage](https://playcode.io)
+- [Watch the demo](https://www.youtube.com/watch?v=aK7E_XtBynA)
